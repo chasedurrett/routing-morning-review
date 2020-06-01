@@ -1,5 +1,6 @@
 const express = require('express')
 const cors = require('cors')
+import {HashRouter} from 'react-router-dom'
 
 const app = express()
 
